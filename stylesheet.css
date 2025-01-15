@@ -1,0 +1,54 @@
+/*Global*/
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    background-color: #f9f5f5;
+    color: #202020;
+}
+
+header {
+    text-align: center;
+    color: #c6005c;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #e2e2e2;
+    color: #202020;
+    text-align: center;
+    padding: 10px 0;
+}
+
+/*Table*/
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+table, th, td {
+    border: 1px solid;
+}
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+/*Pictures */
+
+#cat1
+{
+    width: 15%;
+    border-radius: 500%;
+   
+}
+
+.gallerypics
+{
+   width: 15%;
+   border-radius: 10%;
+}
+
